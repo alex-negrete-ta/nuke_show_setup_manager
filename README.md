@@ -2,7 +2,7 @@
 A Nuke Python script that creates a UI that sets up and automates the load-in of new Nuke scripts for compositors.
 
 
-# HOW  IT WORKS:
+# How it works:
 Its a tool that prevents setting kickbacks for compositors in a show. A UI that helps lead compositors set up a preset for a show/shot comp requirements, and lets the compositors load in the preset, type their name, and start working right away.
 
 # The benefits:
