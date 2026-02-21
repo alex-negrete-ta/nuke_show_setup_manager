@@ -1,6 +1,4 @@
 # nuke_show_setup_manager
-A Nuke Python script that creates a UI that sets up and automates the load-in of new Nuke scripts for compositors.
-
 <img width="600" height="530" alt="image" src="https://github.com/user-attachments/assets/103ab81a-ba37-47f8-8d7a-9a0326746b7b" />
 
 
